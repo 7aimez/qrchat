@@ -1,2 +1,5 @@
-# qrchat
+# QR Chat
+
 ✨ Chat using QR Codes
+
+---
